@@ -23,6 +23,8 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:ahmerentes@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://historiadelosvideojuegosvol1.blogspot.com/" alt="Blogger" title="Blogger"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/300px-Blogger_icon_2017.svg.png?20170521033450"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   <br/>
 
