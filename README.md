@@ -16,6 +16,8 @@
   </h3>
 
   <p align="center">
+    <a href="https://discord.com/users/Artur#3378"><img width="32px" alt="Discord" title="Discord" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/arturo-h-989b3b137/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:ahmerentes@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
