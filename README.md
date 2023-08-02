@@ -6,11 +6,9 @@
   </h1>
 
 <!-- Typing Effect Description -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=<b>Chinese-Venezuelan</b> Software Engineer Student;<b>Full Stack Software Developer</b>;<b>UI/UX Designer</b>;Always eager to take on new challenges" alt="Typing SVG" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Chinese-Venezuelan+Software+Engineer+Student;Full+Stack+Software+Developer;UI%2FUX+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
+  </p>
 
 <!-- Social Media -->
   <h3 align="left" style="font-family: Manrope, sans-serif; font-size: 26px; font-weight: bold; color: rgb(255, 255, 255);">
