@@ -55,9 +55,9 @@
     📊 Github Profile Stats
   </h3>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahungm&show_icons=true&locale=en&theme=highconstrast" alt="ahungm" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahungm&show_icons=true&locale=en&theme=github_dark" alt="ahungm" /></p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&langs_count=8&layout=compact&theme=neon&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/nuraghazra/github-readme-stats)/p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&langs_count=8&layout=compact&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/nuraghazra/github-readme-stats)
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahungm&theme=git-dark" alt="ahungm" /></p>
 
@@ -70,7 +70,10 @@
         🚀 About Me
       </h3>    
     </summary>
+    <p style="text-align: justify;">
       My coding career started in high school, specifically during one of my Computer Science classes, where I was taught how to make a simple "Hello, World!" print screen in Pascal. Since then, my passion for this field has only grown stronger over the years, leading me to explore the world of possibilities that programming can offer. So far in my college experience, I have had the opportunity to experiment with modern programming languages such as Java, JavaScript and Python to create fascinating applications. Also, in my Computer Architecture course, I had the chance to work with embedded systems, using Arduino and PIC16F84A to create real-world projects. Looking towards the future, as a Software Engineering major, I want to apply my skills and knowledge, collaborating at the same time with talented people to develop innovative solutions to solve complex problems around the world. In the long term, my ultimate goal is to found my own tech industry. I know this won't be an easy task and there will be many obstacles and challenges along the way, but I am committed to working hard to make that goal a reality. 
-    "TO INFINITY AND BEYOND 🚀♾️"
+      <strong>"TO INFINITY AND BEYOND 🚀♾️"</strong>
+    </p>
+
 
       
