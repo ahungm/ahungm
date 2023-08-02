@@ -7,7 +7,7 @@
 
 <!-- Typing Effect Description -->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Student+at+UCAB;Full+Stack+Software+Developer;UI%2FUX+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+!;Software+Engineer+Student+at+UCAB;Full+Stack+Software+Developer;UI%2FUX+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
   </p>
 
 <!-- Social Media -->
