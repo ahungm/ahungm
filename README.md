@@ -59,8 +59,8 @@
   </h3>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahungm&show_icons=true&locale=en&theme=github_dark" alt="ahungm" /></p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&langs_count=8&layout=compact&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/nuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahungm&theme=git-dark" alt="ahungm" /></p>
 
