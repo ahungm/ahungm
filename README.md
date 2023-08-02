@@ -42,12 +42,9 @@
   <img align="left" alt="Oracle" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="left" alt="Figma" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="left" alt="Photoshop" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="left" alt="MatLab" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="left" alt="Cisco Packet Tracer" width="50px" height="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" /> 
   <img align="left" alt="Linux" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="Git" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="left" alt="TypeScript" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="left" alt="Dart" width="30px" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
   <br />
 
