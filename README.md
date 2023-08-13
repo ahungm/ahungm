@@ -62,7 +62,7 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahungm&show_icons=true&locale=en&theme=github_dark" alt="ahungm" /></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahungm&hide=html,css&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahungm&theme=git-dark" alt="ahungm" /></p>
 
