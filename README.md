@@ -7,7 +7,7 @@
 
 <!-- Typing Effect Description -->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+!;8th+Semester+Software+Engineering+Student;Full+Stack+Software+Developer;UI%2FUX+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+!;8th+Semester+Software+Engineering+Student;Full+Stack+Software+Developer;UX%2FUI+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
   </p>
 
 
@@ -66,6 +66,10 @@
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahungm&theme=git-dark" alt="ahungm" /></p>
 
+  #
+
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote)
+  
   #
 <!-- Summary -->
 <details>
