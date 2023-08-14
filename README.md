@@ -7,7 +7,7 @@
 
 <!-- Typing Effect Description -->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+!;8th+Semester+Software+Engineering+Student;Full+Stack+Software+Developer;UX%2FUI+Designer;Always+eager+to+take+on+new+challenges" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&duration=6000&pause=1000&color=CBF6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+!;Full+Stack+Software+Developer;UX%2FUI+Designer;Always+eager+to+take+on+new+challenges;To+Infinity+and+Beyond+🚀+♾️" alt="Typing SVG" /></a>
   </p>
 
 
@@ -67,10 +67,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahungm&theme=git-dark" alt="ahungm" /></p>
 
   #
-
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote)
-  
-  #
 <!-- Summary -->
 <details>
   <summary>
@@ -84,7 +80,7 @@
         <p>
           My coding career started in high school, specifically during one of my Computer Science classes, when I was taught how to make a simple "Hello, World!" print screen for first time in Pascal. Since then, my passion for this field has only grown stronger over the years, leading me to explore the world of possibilities that programming can offer. So far in my college experience, I've had the opportunity to experiment with modern programming languages such as Java, JavaScript and Python to create fascinating applications. Also, in my Computer Architecture course, I had the chance to work with embedded systems, using Arduino and PIC16F84A to create real-world projects. Looking towards the future, as a Software Engineering major, I want to apply my skills and knowledge, collaborating at the same time with talented people to develop innovative solutions to solve complex problems around the world. In the long term, my ultimate goal is to found my own tech industry. I know this won't be an easy task and there will be many obstacles and challenges along the way, but I'm committed to working hard in order to make that goal a reality.
         </p>
-        <p><strong>" TO INFINITY AND BEYOND 🚀♾️ "</strong></p>
+        <p><strong>"Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do. - Steve Jobs"</strong></p>
       </td>
     </tr>
   </table>
