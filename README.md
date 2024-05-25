@@ -1,8 +1,6 @@
 <!-- Author -->
   <h1 align="center" style="font-family: Manrope, sans-serif; font-size: 32px; font-weight: bold; color: rgb(255, 255, 255);">
     Arturo Hung 
-    <img alt="China" width="30px" height="20" style="padding-left:10px;" src="https://seekflag.com/app/uploads/2021/11/Flag-of-China-01-1.svg"/>
-    <img alt="Venezuela" width="30px" height="20" style="padding-left:10px;" src="https://seekflag.com/app/uploads/2021/12/Venezuela-01-1.svg"/>
   </h1>
 
 <!-- Typing Effect Description -->
@@ -17,13 +15,9 @@
   </h3>
 
   <p align="center">
-    <a href="https://discord.com/users/Artur#3378"><img width="32px" alt="Discord" title="Discord" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/ahungm/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:ahmerentes@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://historiadelosvideojuegosvol1.blogspot.com/" alt="Blogger" title="Blogger"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/300px-Blogger_icon_2017.svg.png?20170521033450"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   <br/>
